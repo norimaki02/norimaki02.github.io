@@ -1,40 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Origin</title>
+    <title>アキヒ</title>
     <link>https://norimaki02.github.io/</link>
-    <description>Recent content on Origin</description>
+    <description>Recent content on アキヒ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-js</language>
     <copyright>© 2020, norimaki</copyright>
-    <lastBuildDate>Tue, 30 Mar 2021 23:07:31 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 12:57:22 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test2</title>
-      <link>https://norimaki02.github.io/post/test2/</link>
-      <pubDate>Tue, 30 Mar 2021 23:07:31 +0900</pubDate>
+      <title>ホームページを始めてみた。</title>
+      <link>https://norimaki02.github.io/post/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Wed, 31 Mar 2021 12:57:22 +0900</pubDate>
       
-      <guid>https://norimaki02.github.io/post/test2/</guid>
-      <description>Test </description>
+      <guid>https://norimaki02.github.io/post/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>テスト記事</title>
-      <link>https://norimaki02.github.io/post/test/</link>
-      <pubDate>Fri, 27 Sep 2019 11:23:09 +0000</pubDate>
-      
-      <guid>https://norimaki02.github.io/post/test/</guid>
-      <description>テスト記事です。 記事はmarkdown形式で記述します。
- foo bar hoge  .emoji { font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols; }
- .emojify { font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols; font-size: 2rem; vertical-align: middle; } @media screen and (max-width:650px) { .nowrap { display: block; margin: 25px 0; } }  </description>
-    </item>
-    
-    <item>
-      <title>Test</title>
+      <title>概要</title>
       <link>https://norimaki02.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://norimaki02.github.io/about/</guid>
-      <description>Test </description>
+      <description>このページについて hugo github.io　を使用して作成されたサイトです。 テーマはOriginとなっています。 ゲームのような配色が気に入っています。
+Netlifyを使うことも考えましたが、独自ドメインを早急に習得するのが難しかったため諦めました。</description>
     </item>
     
   </channel>

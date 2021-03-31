@@ -2,68 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/tags/example/</loc>
-    <lastmod>2021-03-30T11:56:06+09:00</lastmod>
+    <loc>https://norimaki02.github.io/tags/homepage/</loc>
+    <lastmod>2021-03-31T23:30:34+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2021-03-30T11:56:06+09:00</lastmod>
+    <loc>https://norimaki02.github.io/news/</loc>
+    <lastmod>2021-03-31T23:30:34+09:00</lastmod>
+  </url><url>
+    <loc>https://norimaki02.github.io/news/news_about/</loc>
+    <lastmod>2021-03-31T23:30:34+09:00</lastmod>
+  </url><url>
+    <loc>https://norimaki02.github.io/</loc>
+    <lastmod>2021-03-31T23:30:34+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://norimaki02.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://norimaki02.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2021-03-30T11:56:06+09:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2021-03-30T11:56:06+09:00</lastmod>
+    <loc>https://norimaki02.github.io/tags/</loc>
+    <lastmod>2021-03-31T23:30:34+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://norimaki02.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://norimaki02.github.io/tags/"
                 />
   </url><url>
-    <loc>https://example.com/tags/test/</loc>
+    <loc>https://norimaki02.github.io/posts/2021/03/post_about/</loc>
     <lastmod>2021-03-30T11:56:06+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2021/03/test_page/</loc>
+    <loc>https://norimaki02.github.io/posts/</loc>
     <lastmod>2021-03-30T11:56:06+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://norimaki02.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://norimaki02.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://norimaki02.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://norimaki02.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://norimaki02.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://norimaki02.github.io/series/"
                 />
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://norimaki02.github.io/about/</loc>
   </url>
 </urlset>

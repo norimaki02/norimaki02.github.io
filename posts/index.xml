@@ -1,32 +1,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Norimaki</title>
-        <link>https://example.com/posts/</link>
+        <link>https://norimaki02.github.io/posts/</link>
         <description>Recent content in Posts on Norimaki</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Tue, 30 Mar 2021 11:56:06 +0900</lastBuildDate>
-        <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://norimaki02.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Test_page</title>
-            <link>https://example.com/posts/2021/03/test_page/</link>
+            <title>Post_about</title>
+            <link>https://norimaki02.github.io/posts/2021/03/post_about/</link>
             <pubDate>Tue, 30 Mar 2021 11:56:06 +0900</pubDate>
             
-            <guid>https://example.com/posts/2021/03/test_page/</guid>
-            <description>テスト記事です。 記事はmarkdown形式で記述します。
- foo bar hoge  注釈 https://gohugo.io/hosting-and-deployment/hosting-on-netlify/</description>
-            <content type="html"><![CDATA[<h1 id="テスト記事です">テスト記事です。</h1>
-<p>記事はmarkdown形式で記述します。</p>
-<ul>
-<li>foo</li>
-<li>bar</li>
-<li>hoge</li>
-</ul>
-<p>注釈
-<a href="https://gohugo.io/hosting-and-deployment/hosting-on-netlify/">https://gohugo.io/hosting-and-deployment/hosting-on-netlify/</a></p>
-<p><img src="/img/dc.jpg" alt="画像を入れることも可能です"></p>
+            <guid>https://norimaki02.github.io/posts/2021/03/post_about/</guid>
+            <description>Post とは 趣味や日常に関しての記事をPostには公開していこうと思っています。 日記運用になると思います。</description>
+            <content type="html"><![CDATA[<h1 id="post-とは">Post とは</h1>
+<p>趣味や日常に関しての記事をPostには公開していこうと思っています。
+日記運用になると思います。</p>
 ]]></content>
         </item>
         

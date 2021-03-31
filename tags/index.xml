@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on アキヒ</title>
-    <link>https://norimaki02.github.io/tags/</link>
-    <description>Recent content in Tags on アキヒ</description>
+    <title>Tags on Norimaki</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Norimaki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-js</language>
-    <copyright>© 2020, norimaki</copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 12:57:22 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 30 Mar 2021 11:56:06 +0900</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HomePage</title>
-      <link>https://norimaki02.github.io/tags/homepage/</link>
-      <pubDate>Wed, 31 Mar 2021 12:57:22 +0900</pubDate>
+      <title>example</title>
+      <link>https://example.com/tags/example/</link>
+      <pubDate>Tue, 30 Mar 2021 11:56:06 +0900</pubDate>
       
-      <guid>https://norimaki02.github.io/tags/homepage/</guid>
+      <guid>https://example.com/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>index</title>
-      <link>https://norimaki02.github.io/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>test</title>
+      <link>https://example.com/tags/test/</link>
+      <pubDate>Tue, 30 Mar 2021 11:56:06 +0900</pubDate>
       
-      <guid>https://norimaki02.github.io/tags/index/</guid>
+      <guid>https://example.com/tags/test/</guid>
       <description></description>
     </item>
     

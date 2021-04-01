@@ -1,26 +1,30 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Norimaki</title>
-        <link>https://norimaki02.github.io/posts/</link>
-        <description>Recent content in Posts on Norimaki</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>ja-jp</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 30 Mar 2021 11:56:06 +0900</lastBuildDate>
-        <atom:link href="https://norimaki02.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Post_about</title>
-            <link>https://norimaki02.github.io/posts/2021/03/post_about/</link>
-            <pubDate>Tue, 30 Mar 2021 11:56:06 +0900</pubDate>
-            
-            <guid>https://norimaki02.github.io/posts/2021/03/post_about/</guid>
-            <description>Post とは 趣味や日常に関しての記事をPostには公開していこうと思っています。 日記運用になると思います。</description>
-            <content type="html"><![CDATA[<h1 id="post-とは">Post とは</h1>
-<p>趣味や日常に関しての記事をPostには公開していこうと思っています。
-日記運用になると思います。</p>
-]]></content>
-        </item>
-        
-    </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Norimaki</title><link>https://norimaki02.github.io/posts/</link><description>Recent content in Posts on Norimaki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 01 Apr 2021 22:55:50 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>hugoで詰まったところ</title><link>https://norimaki02.github.io/posts/2021/04/hugo%E3%81%A7%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D/</link><pubDate>Thu, 01 Apr 2021 22:55:50 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/04/hugo%E3%81%A7%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D/</guid><description>ホームページ製作過程も含む</description><content type="html"><![CDATA[<h2 id="hugo-とは">Hugo とは　</h2>
+<p>Goで記述された静的サイトジェネレーターであり、webページの読み込みが高速になりやすくフリーなことも魅力です。
+上記の理由からHugoを使ってみました。
+<a href="https://qiita.com/peaceiris/items/ef38cc2a4b5565d0dd7c">https://qiita.com/peaceiris/items/ef38cc2a4b5565d0dd7c</a></p>
+<p>HugoについてはURLを見てくれるとよくわかると思うのですが、その中でも詰まったところを書いていきたいと思います。</p>
+<h2 id="環境">環境</h2>
+<p>まずWSL　UbuntuにHugoをインストールし、使用しました。
+Windowsでは無理がありそうなことをインストールページは書いていたので、WSLにしました。
+Dockerも考えましたが、OS　がWindowsでありクラッシュしやすいので諦めました。
+その後は公式のチュートリアルに乗っ取りました。</p>
+<h2 id="詰まったところ">詰まったところ</h2>
+<p>詰まったところはhugo server というコマンドでサイトをローカルで起動できるのですが、
+その中ではうまくいっているのに、githubに公開するとデザインが崩壊することです。
+3時間ぐらい詰まり、ソースコードを眺めているとURLの設定が初期設定だったことで全く画像がCSSに結びついていないことにありました。
+そのせいで画像が配置されなくなり、デザインが崩壊していたのです。
+URLをちゃんと定義したら直りました。</p>
+<p>また、デザインの設定が複雑になりがちなことです。Testページを作り、挙動などを検査していたのですが内部のエンジンのトリガーが不明なデザインがまだ多くあります。
+たぶんファイル名などに反応していると推測されますが、あまりドキュメントに書かれておらずわかりません。
+word数など理解できていないことが多くあります。
+生成されたソースコードを読むと危ないことはしていないようですが、hugoを利用しるときは気を付けてください。</p>
+<p>Netlifyに上げるときはSubmodule　としてthemesをaddすること。
+書いてあるページが少なかったのですが、試しにNetlifyを使用してみた時うまくいかなかったときがあります。
+理由はcloneではいけないことにありました。
+themesはcloneしないようにHugoでは気を付けるといいと思います。</p>
+<h2 id="終わりに">終わりに</h2>
+<p>Homepageを作ったのは初めてなのですが、読み込みも速くすることができて、とても満足しています。
+静的なサイトを作るときはぜひHugoを利用することをおススメします。</p>
+]]></content></item><item><title>Post_about</title><link>https://norimaki02.github.io/posts/2021/03/post_about/</link><pubDate>Tue, 30 Mar 2021 11:56:06 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/03/post_about/</guid><description>Post とは 趣味や日常に関しての記事をPostには公開していこうと思っています。 日記運用になると思います。</description><content type="html">&lt;h1 id="post-とは">Post とは&lt;/h1>
+&lt;p>趣味や日常に関しての記事をPostには公開していこうと思っています。
+日記運用になると思います。&lt;/p></content></item></channel></rss>

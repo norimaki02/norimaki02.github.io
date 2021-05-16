@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Norimaki</title><link>https://norimaki02.github.io/</link><description>Recent content on Norimaki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 29 Apr 2021 13:30:50 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>NAS鯖買った</title><link>https://norimaki02.github.io/news/nas/</link><pubDate>Thu, 29 Apr 2021 13:30:50 +0900</pubDate><guid>https://norimaki02.github.io/news/nas/</guid><description>NAS　Server を買いました。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Norimaki</title><link>https://norimaki02.github.io/</link><description>Recent content on Norimaki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sun, 16 May 2021 14:17:21 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>TCP</title><link>https://norimaki02.github.io/news/tcp/</link><pubDate>Sun, 16 May 2021 14:17:21 +0900</pubDate><guid>https://norimaki02.github.io/news/tcp/</guid><description>TCP TCPを作ろうと思っているんですけど RDBMSも作っているので どうしようか迷っているんですけど ここに宣言することでできるようになると信じて宣言します
+TCP作ります。以上です。</description></item><item><title>Cについて</title><link>https://norimaki02.github.io/posts/2021/05/c%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link><pubDate>Sun, 16 May 2021 02:09:58 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/05/c%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid><description>とりあえずC言語に対するまとめをつくりたくなったので書きます。
+C言語の自己的な考え C言語はめんどくさいし、つまらない。 でも速度は速いし、いざ！となった時の強い味方。 以上
+最初に学ぶべきかは
+アメリカの超一流大学（MIT, CMU, UC Berkleyなどなど）は　コンピューターサイエンスの入門言語としてほとんどPythonを使ってて コンピューターサイエンスで世界の最前線を走っているカーネギーメロン大学は
+http://reports-archive.adm.cs.cmu.edu/anon/2010/CMU-CS-10-140.pdf
+プログラミングは現代教育において、コンピューターサイエンス専攻の学生だけではなく、すべての大学生が受けるべき科目になりつつあり、その中でも、非情報系の学生に対して、いわゆるcomputational thinkingに重点を置いています。したがって、言語の複雑さを隠したPythonが現時点で最良の選択　だそうです。
+もちろん、C言語は無価値なものではなく必須言語だけどねぇって感じです
+https://marycore.jp/programmer/c-lang-is-lorry/
+上のリンクがわかりやすく書いてある。 アメリカの超一流工科大学でもそれを避けようとしてるのに、どうする？って話です。
+Cで何作れる？ Cで作るのは非常に難しく面倒ですが 勉強になります
+候補としては コンパイラ RDBMS
+の2つですかね、死にますです。
+https://www.sigbus.info/compilerbook　https://ohbarye.hatenablog.jp/entry/2020/04/17/sqlite-clone-db-tutorial
+何か作りたい人、頑張って</description></item><item><title>NAS鯖買った</title><link>https://norimaki02.github.io/news/nas/</link><pubDate>Thu, 29 Apr 2021 13:30:50 +0900</pubDate><guid>https://norimaki02.github.io/news/nas/</guid><description>NAS　Server を買いました。
 まあまあですね。 自宅、iCloudですが問題点がいくつか。
 問題点 スマホで無茶な命令をするとサーバーが落ちる。
 500GBを遠隔で一気に消そうとするとぶっ壊れます。 最悪です。
@@ -37,13 +51,15 @@ WSL(Windows Subsystem for Linux) 最近出てきた、めちゃくちゃ使い�
 開発環境 WSL　：　Ubuntu20.04
 言語　：　Rust
 エディター　：　VS　code
+Rustでかくのでめちゃくちゃ時間がかかった
 #　ディスクマネージャー Comeing soon&amp;hellip;</description></item><item><title>ゲーム作ろうと思っている</title><link>https://norimaki02.github.io/news/game/</link><pubDate>Tue, 20 Apr 2021 19:33:41 +0900</pubDate><guid>https://norimaki02.github.io/news/game/</guid><description>ゲーム作ろうかと思っています。
 一日ぐらいで荒く作ってみて、1か月寝かしてうまくいきそうと感じたら本格的に作りますかね。
-暇人募集中</description></item><item><title>Youtuberの押し売り</title><link>https://norimaki02.github.io/posts/2021/04/youtuber%E3%81%AE%E6%8A%BC%E3%81%97%E5%A3%B2%E3%82%8A/</link><pubDate>Tue, 20 Apr 2021 18:30:44 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/04/youtuber%E3%81%AE%E6%8A%BC%E3%81%97%E5%A3%B2%E3%82%8A/</guid><description>休日何してますか？という質問に対して、Youtube見ていますと答える人の統計を取りたくなった今日この頃です。
+暇人募集中
+追記
+センスがないことが判明したので、保留</description></item><item><title>Youtuberの押し売り</title><link>https://norimaki02.github.io/posts/2021/04/youtuber%E3%81%AE%E6%8A%BC%E3%81%97%E5%A3%B2%E3%82%8A/</link><pubDate>Tue, 20 Apr 2021 18:30:44 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/04/youtuber%E3%81%AE%E6%8A%BC%E3%81%97%E5%A3%B2%E3%82%8A/</guid><description>休日何してますか？という質問に対して、Youtube見ていますと答える人の統計を取りたくなった今日この頃です。
 ブログ（？）に書くことも思いつかないので、おススメのYoutuber書きます。
 ヨビノリ 大学生必見のYoutuberといえばやはりヨビノリ
 自分の学科には全く合っていませんが、研究の話が自分は好きです。 きまぐれクック 料理系のYoutuberで一番好きです。 特にケジャンの動画がよし ##　Fらん大生の就活チャンネル
 ここからはマイナーで行きます。
 イカレタ現実を教えてくれる動画の数々、すごい勉強になります。（信じるかは別） ##　スカイ三平
-宇宙関係の動画ではこの人の右にでる人はいないっていうくらい知識があり、勉強になります。 韓国の宇宙事情も解説していておススメです。 これで終わりですかね。 暇な時見てください。 夜ごはん食べながら書いたので、おかしいところがあったらすみません。</description></item><item><title>hugoで詰まったところ</title><link>https://norimaki02.github.io/posts/2021/04/hugo%E3%81%A7%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D/</link><pubDate>Thu, 01 Apr 2021 22:55:50 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/04/hugo%E3%81%A7%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D/</guid><description>ホームページ製作過程も含む</description></item><item><title>news_about</title><link>https://norimaki02.github.io/news/news_about/</link><pubDate>Wed, 31 Mar 2021 23:30:34 +0900</pubDate><guid>https://norimaki02.github.io/news/news_about/</guid><description>news とは 読んだ本の紹介や情報をメインにおいていこうと思っている場所です。</description></item><item><title>Post_about</title><link>https://norimaki02.github.io/posts/2021/03/post_about/</link><pubDate>Tue, 30 Mar 2021 11:56:06 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/03/post_about/</guid><description>Post とは 趣味や日常に関しての記事をPostには公開していこうと思っています。 日記運用になると思います。</description></item><item><title>このサイトとは</title><link>https://norimaki02.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://norimaki02.github.io/about/</guid><description>気まぐれで欲しいと思ったブログをgithubで作ってみました。 hugo で生成、github.ioで公開という形になっています。 日記のように運用していくことになると思います。 以前、はてなブログをやっていたのですが、まったく続かなかったので今回も続かないと思います。
-HomePageのことについてHomepageタグにまとめてあるのでご覧になってください。</description></item></channel></rss>
+宇宙関係の動画ではこの人の右にでる人はいないっていうくらい知識があり、勉強になります。 韓国の宇宙事情も解説していておススメです。 これで終わりですかね。 暇な時見てください。 夜ごはん食べながら書いたので、おかしいところがあったらすみません。</description></item><item><title>hugoで詰まったところ</title><link>https://norimaki02.github.io/posts/2021/04/hugo%E3%81%A7%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D/</link><pubDate>Thu, 01 Apr 2021 22:55:50 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/04/hugo%E3%81%A7%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D/</guid><description>ホームページ製作過程も含む</description></item><item><title>news_about</title><link>https://norimaki02.github.io/news/news_about/</link><pubDate>Wed, 31 Mar 2021 23:30:34 +0900</pubDate><guid>https://norimaki02.github.io/news/news_about/</guid><description>news とは 読んだ本の紹介や情報をメインにおいていこうと思っている場所です。</description></item><item><title>Post_about</title><link>https://norimaki02.github.io/posts/2021/03/post_about/</link><pubDate>Tue, 30 Mar 2021 11:56:06 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/03/post_about/</guid><description>Post とは 趣味や日常に関しての記事をPostには公開していこうと思っています。 日記運用になると思います。</description></item></channel></rss>

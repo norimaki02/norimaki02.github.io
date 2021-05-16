@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web on Norimaki</title><link>https://norimaki02.github.io/tags/web/</link><description>Recent content in Web on Norimaki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 29 Apr 2021 13:30:50 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/tags/web/index.xml" rel="self" type="application/rss+xml"/><item><title>NAS鯖買った</title><link>https://norimaki02.github.io/news/nas/</link><pubDate>Thu, 29 Apr 2021 13:30:50 +0900</pubDate><guid>https://norimaki02.github.io/news/nas/</guid><description>NAS　Server を買いました。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web on Norimaki</title><link>https://norimaki02.github.io/tags/web/</link><description>Recent content in Web on Norimaki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sun, 16 May 2021 14:17:21 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/tags/web/index.xml" rel="self" type="application/rss+xml"/><item><title>TCP</title><link>https://norimaki02.github.io/news/tcp/</link><pubDate>Sun, 16 May 2021 14:17:21 +0900</pubDate><guid>https://norimaki02.github.io/news/tcp/</guid><description>TCP TCPを作ろうと思っているんですけど RDBMSも作っているので どうしようか迷っているんですけど ここに宣言することでできるようになると信じて宣言します
+TCP作ります。以上です。</description></item><item><title>NAS鯖買った</title><link>https://norimaki02.github.io/news/nas/</link><pubDate>Thu, 29 Apr 2021 13:30:50 +0900</pubDate><guid>https://norimaki02.github.io/news/nas/</guid><description>NAS　Server を買いました。
 まあまあですね。 自宅、iCloudですが問題点がいくつか。
 問題点 スマホで無茶な命令をするとサーバーが落ちる。
 500GBを遠隔で一気に消そうとするとぶっ壊れます。 最悪です。
@@ -12,4 +13,5 @@ UIのデザインが古いんですよね、気に食わないです。 全然�
 開発環境 WSL　：　Ubuntu20.04
 言語　：　Rust
 エディター　：　VS　code
+Rustでかくのでめちゃくちゃ時間がかかった
 #　ディスクマネージャー Comeing soon&amp;hellip;</description></item></channel></rss>

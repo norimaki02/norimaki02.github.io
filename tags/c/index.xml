@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C on Norimaki</title><link>https://norimaki02.github.io/tags/c/</link><description>Recent content in C on Norimaki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sun, 16 May 2021 02:09:58 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/tags/c/index.xml" rel="self" type="application/rss+xml"/><item><title>Cについて</title><link>https://norimaki02.github.io/posts/2021/05/c%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link><pubDate>Sun, 16 May 2021 02:09:58 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/05/c%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid><description>とりあえずC言語に対するまとめをつくりたくなったので書きます。
+C言語の自己的な考え C言語はめんどくさいし、つまらない。 でも速度は速いし、いざ！となった時の強い味方。 以上
+最初に学ぶべきかは
+アメリカの超一流大学（MIT, CMU, UC Berkleyなどなど）は　コンピューターサイエンスの入門言語としてほとんどPythonを使ってて コンピューターサイエンスで世界の最前線を走っているカーネギーメロン大学は
+http://reports-archive.adm.cs.cmu.edu/anon/2010/CMU-CS-10-140.pdf
+プログラミングは現代教育において、コンピューターサイエンス専攻の学生だけではなく、すべての大学生が受けるべき科目になりつつあり、その中でも、非情報系の学生に対して、いわゆるcomputational thinkingに重点を置いています。したがって、言語の複雑さを隠したPythonが現時点で最良の選択　だそうです。
+もちろん、C言語は無価値なものではなく必須言語だけどねぇって感じです
+https://marycore.jp/programmer/c-lang-is-lorry/
+上のリンクがわかりやすく書いてある。 アメリカの超一流工科大学でもそれを避けようとしてるのに、どうする？って話です。
+Cで何作れる？ Cで作るのは非常に難しく面倒ですが 勉強になります
+候補としては コンパイラ RDBMS
+の2つですかね、死にますです。
+https://www.sigbus.info/compilerbook　https://ohbarye.hatenablog.jp/entry/2020/04/17/sqlite-clone-db-tutorial
+何か作りたい人、頑張って</description></item></channel></rss>

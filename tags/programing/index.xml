@@ -23,10 +23,4 @@ Visual Studio code 開発環境のまとめ役のようなイメージです。 
 なんとなく出てきた文章を読んで見てもいいかもしれません。
 ダウンロードはこちらから https://code.visualstudio.com/download
 （Azureとかいう物も最近できましたが、あんまりいいという話を聞かないので無理に使う必要はないと思います。）
-WSL(Windows Subsystem for Linux) 最近出てきた、めちゃくちゃ使いやすい物です。 予想としては、MacのLinux化が進んだことを受けて 今まで頑なにLinuxを拒んできたが流石にAppleにプログラマーが流れるぐらいなら&amp;hellip;.</description></item><item><title>RDBMSを作る(1)</title><link>https://norimaki02.github.io/posts/2021/04/rdbms%E3%82%92%E4%BD%9C%E3%82%8B1/</link><pubDate>Tue, 27 Apr 2021 01:31:56 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/04/rdbms%E3%82%92%E4%BD%9C%E3%82%8B1/</guid><description>RDBMS とは 関係データベース管理システム（かんけいデータベースかんりシステム）またはリレーショナルデータベースマネジメントシステム（英語: relational database management system、略称：RDBMS）は、関係データベース (RDB) の管理システムである。RDB がデータベースの種類を示すのに対して、RDBMS は RDB の実装を示す。標準問い合わせ言語として SQL を用いたアクセスを行うため、相対する言葉として RDBMS 以外のデータベースを意味する NoSQL (Not only SQL) がある。
-だそうです。 https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0
-今回は雑誌に乗っていたRDBMSもどきを作ろうと思います。
-開発環境 WSL　：　Ubuntu20.04
-言語　：　Rust
-エディター　：　VS　code
-#　ディスクマネージャー Comeing soon&amp;hellip;</description></item></channel></rss>
+WSL(Windows Subsystem for Linux) 最近出てきた、めちゃくちゃ使いやすい物です。 予想としては、MacのLinux化が進んだことを受けて 今まで頑なにLinuxを拒んできたが流石にAppleにプログラマーが流れるぐらいなら&amp;hellip;.</description></item></channel></rss>

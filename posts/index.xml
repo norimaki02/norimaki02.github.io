@@ -1,4 +1,42 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Norimaki</title><link>https://norimaki02.github.io/posts/</link><description>Recent content in Posts on Norimaki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 29 Apr 2021 13:28:33 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>開発環境</title><link>https://norimaki02.github.io/posts/2021/04/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83/</link><pubDate>Thu, 29 Apr 2021 13:28:33 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/04/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83/</guid><description>開発環境とは 開発環境とは 文字通りプログラミングを作る環境のことを指しています。
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Norimaki</title><link>https://norimaki02.github.io/posts/</link><description>Recent content in Posts on Norimaki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sun, 16 May 2021 02:09:58 +0900</lastBuildDate><atom:link href="https://norimaki02.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Cについて</title><link>https://norimaki02.github.io/posts/2021/05/c%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link><pubDate>Sun, 16 May 2021 02:09:58 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/05/c%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid><description>とりあえずC言語に対するまとめをつくりたくなったので書きます。
+C言語の自己的な考え C言語はめんどくさいし、つまらない。 でも速度は速いし、いざ！となった時の強い味方。 以上
+最初に学ぶべきかは
+アメリカの超一流大学（MIT, CMU, UC Berkleyなどなど）は　コンピューターサイエンスの入門言語としてほとんどPythonを使ってて コンピューターサイエンスで世界の最前線を走っているカーネギーメロン大学は
+http://reports-archive.adm.cs.cmu.edu/anon/2010/CMU-CS-10-140.pdf
+プログラミングは現代教育において、コンピューターサイエンス専攻の学生だけではなく、すべての大学生が受けるべき科目になりつつあり、その中でも、非情報系の学生に対して、いわゆるcomputational thinkingに重点を置いています。したがって、言語の複雑さを隠したPythonが現時点で最良の選択　だそうです。
+もちろん、C言語は無価値なものではなく必須言語だけどねぇって感じです
+https://marycore.jp/programmer/c-lang-is-lorry/
+上のリンクがわかりやすく書いてある。 アメリカの超一流工科大学でもそれを避けようとしてるのに、どうする？って話です。
+Cで何作れる？ Cで作るのは非常に難しく面倒ですが 勉強になります
+候補としては コンパイラ RDBMS
+の2つですかね、死にますです。
+https://www.sigbus.info/compilerbook　https://ohbarye.hatenablog.jp/entry/2020/04/17/sqlite-clone-db-tutorial
+何か作りたい人、頑張って</description><content type="html"><![CDATA[<p>とりあえずC言語に対するまとめをつくりたくなったので書きます。</p>
+<h2 id="c言語の自己的な考え">C言語の自己的な考え</h2>
+<p>C言語はめんどくさいし、つまらない。
+でも速度は速いし、いざ！となった時の強い味方。
+以上</p>
+<p>最初に学ぶべきかは</p>
+<p>アメリカの超一流大学（MIT, CMU, UC Berkleyなどなど）は　
+コンピューターサイエンスの入門言語としてほとんどPythonを使ってて
+コンピューターサイエンスで世界の最前線を走っているカーネギーメロン大学は</p>
+<p><a href="http://reports-archive.adm.cs.cmu.edu/anon/2010/CMU-CS-10-140.pdf">http://reports-archive.adm.cs.cmu.edu/anon/2010/CMU-CS-10-140.pdf</a></p>
+<p>プログラミングは現代教育において、コンピューターサイエンス専攻の学生だけではなく、すべての大学生が受けるべき科目になりつつあり、その中でも、非情報系の学生に対して、いわゆるcomputational thinkingに重点を置いています。したがって、言語の複雑さを隠したPythonが現時点で最良の選択　だそうです。</p>
+<p>もちろん、C言語は無価値なものではなく必須言語だけどねぇって感じです</p>
+<p><a href="https://marycore.jp/programmer/c-lang-is-lorry/">https://marycore.jp/programmer/c-lang-is-lorry/</a></p>
+<p>上のリンクがわかりやすく書いてある。
+アメリカの超一流工科大学でもそれを避けようとしてるのに、どうする？って話です。</p>
+<h2 id="cで何作れる">Cで何作れる？</h2>
+<p>Cで作るのは非常に難しく面倒ですが
+勉強になります</p>
+<p>候補としては
+コンパイラ
+RDBMS</p>
+<p>の2つですかね、死にますです。</p>
+<p><a href="https://www.sigbus.info/compilerbook">https://www.sigbus.info/compilerbook</a>　</p>
+<p><a href="https://ohbarye.hatenablog.jp/entry/2020/04/17/sqlite-clone-db-tutorial">https://ohbarye.hatenablog.jp/entry/2020/04/17/sqlite-clone-db-tutorial</a></p>
+<p>何か作りたい人、頑張って</p>
+]]></content></item><item><title>開発環境</title><link>https://norimaki02.github.io/posts/2021/04/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83/</link><pubDate>Thu, 29 Apr 2021 13:28:33 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/04/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83/</guid><description>開発環境とは 開発環境とは 文字通りプログラミングを作る環境のことを指しています。
 そして、プログラミングにあたって 最強の障壁は開発環境となっています。 理由として上げられるのは
 1.コンピュータの基礎的な構造を知っている必要がある。
 2.トレンドが変わりやすい。
@@ -131,6 +169,7 @@ Linuxと親友になりましょう。</p>
 開発環境 WSL　：　Ubuntu20.04
 言語　：　Rust
 エディター　：　VS　code
+Rustでかくのでめちゃくちゃ時間がかかった
 #　ディスクマネージャー Comeing soon&amp;hellip;</description><content type="html"><![CDATA[<h2 id="rdbms-とは">RDBMS とは</h2>
 <p>関係データベース管理システム（かんけいデータベースかんりシステム）またはリレーショナルデータベースマネジメントシステム（英語: relational database management system、略称：RDBMS）は、関係データベース (RDB) の管理システムである。RDB がデータベースの種類を示すのに対して、RDBMS は RDB の実装を示す。標準問い合わせ言語として SQL を用いたアクセスを行うため、相対する言葉として RDBMS 以外のデータベースを意味する NoSQL (Not only SQL) がある。</p>
 <p>だそうです。
@@ -140,6 +179,7 @@ Linuxと親友になりましょう。</p>
 <p>WSL　：　Ubuntu20.04</p>
 <p>言語　：　Rust</p>
 <p>エディター　：　VS　code</p>
+<p>Rustでかくのでめちゃくちゃ時間がかかった</p>
 <p>#　ディスクマネージャー
 Comeing soon&hellip;</p>
 ]]></content></item><item><title>Youtuberの押し売り</title><link>https://norimaki02.github.io/posts/2021/04/youtuber%E3%81%AE%E6%8A%BC%E3%81%97%E5%A3%B2%E3%82%8A/</link><pubDate>Tue, 20 Apr 2021 18:30:44 +0900</pubDate><guid>https://norimaki02.github.io/posts/2021/04/youtuber%E3%81%AE%E6%8A%BC%E3%81%97%E5%A3%B2%E3%82%8A/</guid><description>休日何してますか？という質問に対して、Youtube見ていますと答える人の統計を取りたくなった今日この頃です。
